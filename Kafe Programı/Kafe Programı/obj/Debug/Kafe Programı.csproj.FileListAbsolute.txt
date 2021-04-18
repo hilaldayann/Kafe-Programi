@@ -1,0 +1,10 @@
+C:\Users\Hilal\source\repos\Kafe Programı\Kafe Programı\obj\Debug\Kafe Programı.csprojAssemblyReference.cache
+C:\Users\Hilal\source\repos\Kafe Programı\Kafe Programı\obj\Debug\Kafe_Programı.Form1.resources
+C:\Users\Hilal\source\repos\Kafe Programı\Kafe Programı\obj\Debug\Kafe_Programı.Properties.Resources.resources
+C:\Users\Hilal\source\repos\Kafe Programı\Kafe Programı\obj\Debug\Kafe Programı.csproj.GenerateResource.cache
+C:\Users\Hilal\source\repos\Kafe Programı\Kafe Programı\obj\Debug\Kafe Programı.csproj.CoreCompileInputs.cache
+C:\Users\Hilal\source\repos\Kafe Programı\Kafe Programı\bin\Debug\Kafe Programı.exe.config
+C:\Users\Hilal\source\repos\Kafe Programı\Kafe Programı\bin\Debug\Kafe Programı.exe
+C:\Users\Hilal\source\repos\Kafe Programı\Kafe Programı\bin\Debug\Kafe Programı.pdb
+C:\Users\Hilal\source\repos\Kafe Programı\Kafe Programı\obj\Debug\Kafe Programı.exe
+C:\Users\Hilal\source\repos\Kafe Programı\Kafe Programı\obj\Debug\Kafe Programı.pdb
